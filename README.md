@@ -17,3 +17,6 @@ A desktop application to view, manage, and store browser history using a simple 
 - **Database:** SQLite
 
 ## Project Structure
+## Screenshot
+
+![Console Output](screenshot.png)
