@@ -1,4 +1,6 @@
 name: Build Browser History Utility
+permissions:
+  contents: write
 
 on:
   push:
